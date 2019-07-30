@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "invariant": "^2.2.2",
-    "lottie-ios": "^3.0.3",
+    "lottie-ios": "git+https://github.com/airbnb/lottie-ios.git#3.1.1",
     "prop-types": "^15.5.10",
     "react-native-safe-modules": "^1.0.0"
   },
